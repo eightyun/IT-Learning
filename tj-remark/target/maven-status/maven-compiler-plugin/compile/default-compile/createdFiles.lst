@@ -1,0 +1,10 @@
+com\tianji\remark\service\impl\LikedRecordRedisServiceImpl.class
+com\tianji\remark\contants\RedisConstants.class
+com\tianji\remark\service\ILikedRecordService.class
+com\tianji\remark\domain\dto\LikeRecordFormDTO.class
+com\tianji\remark\domain\dto\LikedTimesDTO.class
+com\tianji\remark\RemarkApplication.class
+com\tianji\remark\controller\LikedRecordController.class
+com\tianji\remark\task\LikedTimesCheckTask.class
+com\tianji\remark\domain\po\LikedRecord.class
+com\tianji\remark\mapper\LikedRecordMapper.class
