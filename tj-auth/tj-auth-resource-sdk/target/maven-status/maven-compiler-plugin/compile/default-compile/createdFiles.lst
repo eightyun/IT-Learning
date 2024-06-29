@@ -1,0 +1,6 @@
+com\tianji\authsdk\resource\interceptors\FeignRelayUserInterceptor.class
+com\tianji\authsdk\resource\config\ResourceAuthProperties.class
+com\tianji\authsdk\resource\interceptors\UserInfoInterceptor.class
+com\tianji\authsdk\resource\config\FeignRelayUserAutoConfiguration.class
+com\tianji\authsdk\resource\config\ResourceInterceptorConfiguration.class
+com\tianji\authsdk\resource\interceptors\LoginAuthInterceptor.class
