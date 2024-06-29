@@ -1,0 +1,7 @@
+com\tianji\gateway\filter\AccountAuthFilter.class
+com\tianji\gateway\GatewayApplication.class
+com\tianji\gateway\filter\RequestIdRelayFilter.class
+com\tianji\gateway\swagger\GatewaySwaggerResourceProvider.class
+com\tianji\gateway\swagger\SwaggerResourceController.class
+com\tianji\gateway\exception\handler\GatewayExceptionHandler.class
+com\tianji\gateway\config\AuthProperties.class
