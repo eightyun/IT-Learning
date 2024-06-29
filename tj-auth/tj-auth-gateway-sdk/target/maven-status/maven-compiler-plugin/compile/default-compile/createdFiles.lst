@@ -1,0 +1,4 @@
+com\tianji\authsdk\gateway\util\JwtSignerHolder$JwkTask.class
+com\tianji\authsdk\gateway\config\AuthAutoConfiguration.class
+com\tianji\authsdk\gateway\util\AuthUtil.class
+com\tianji\authsdk\gateway\util\JwtSignerHolder.class
